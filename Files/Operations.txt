@@ -1,0 +1,26 @@
+mark 255 242 0 0 0 0 
+rotate -90
+mark 34 177 76 127 127 127 
+mark 0 162 232 136 0 21 
+mark 63 72 204 237 28 36 
+rotate 180
+rotate 90
+mark 163 73 164 255 127 39 
+mark 163 73 164 255 255 255 
+rotate 270
+mark 239 228 176 195 195 195 
+rotate -180
+rotate -90
+rotate -180
+mark 181 230 29 185 122 87 
+rotate -270
+rotate 90
+mark 153 217 234 255 174 201 
+rotate 180
+rotate 270
+mark 0 162 232 255 201 14 
+mark 112 146 190 136 0 21 
+mark 200 191 231 255 127 39 
+rotate -180
+rotate 90
+mark 181 230 29 255 174 201 
